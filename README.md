@@ -1,5 +1,3 @@
-# AI Developer Challenge – Local Creative AI Pipeline
-
 This project is a full-stack app that:
 - Uses **local LLaMA2/DeepSeek** to expand creative prompts
 - Sends the result through Openfabric **Text-to-Image** and **Image-to-3D**
