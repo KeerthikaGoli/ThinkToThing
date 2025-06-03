@@ -1,0 +1,13 @@
+openfabric-sdk
+streamlit
+Pillow
+torch
+transformers
+python-dotenv
+chromadb
+tqdm
+numpy
+requests
+fastapi
+uvicorn
+python-multipart 
